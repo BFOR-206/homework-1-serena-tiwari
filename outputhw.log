@@ -1,0 +1,64 @@
+test
+Script starts at Fri 26 Mar 2021 12:56:09 PM EDT
+PING google.com (172.217.9.238) 56(84) bytes of data.
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=1 ttl=116 time=41.2 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=2 ttl=116 time=45.9 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=3 ttl=116 time=33.9 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 33.862/40.310/45.867/4.941 ms
+Done
+Script starts at Fri 26 Mar 2021 12:58:22 PM EDT
+PING google.com (172.217.9.238) 56(84) bytes of data.
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=1 ttl=116 time=35.7 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=2 ttl=116 time=33.2 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=3 ttl=116 time=34.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 33.228/34.337/35.676/1.012 ms
+Done
+Script starts at Fri 26 Mar 2021 02:56:21 PM EDT
+PING 93.44.79.1 (93.44.79.1) 56(84) bytes of data.
+From 192.168.1.15 icmp_seq=3 Destination Host Unreachable
+
+--- 93.44.79.1 ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 2037ms
+
+Done
+Script starts at Fri 26 Mar 2021 02:57:40 PM EDT
+Done
+Script starts at Fri 26 Mar 2021 03:05:15 PM EDT
+Done
+Script starts at Fri 26 Mar 2021 03:05:48 PM EDT
+Done
+Script starts at Fri 26 Mar 2021 03:08:25 PM EDT
+Done
+Script starts at Fri 26 Mar 2021 03:12:32 PM EDT
+PING google.com (172.217.11.46) 56(84) bytes of data.
+64 bytes from lga25s61-in-f14.1e100.net (172.217.11.46): icmp_seq=1 ttl=116 time=33.3 ms
+64 bytes from lga25s61-in-f14.1e100.net (172.217.11.46): icmp_seq=2 ttl=116 time=35.9 ms
+64 bytes from lga25s61-in-f14.1e100.net (172.217.11.46): icmp_seq=3 ttl=116 time=37.5 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 33.349/35.574/37.470/1.698 ms
+Done
+Script starts at Fri 26 Mar 2021 03:13:29 PM EDT
+PING amazon.com (54.239.28.85) 56(84) bytes of data.
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=1 ttl=219 time=40.5 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=2 ttl=219 time=39.6 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=3 ttl=219 time=39.2 ms
+
+--- amazon.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 39.196/39.756/40.496/0.545 ms
+Done
+Script starts at Fri 26 Mar 2021 03:14:55 PM EDT
+PING 93.44.79.1 (93.44.79.1) 56(84) bytes of data.
+
+--- 93.44.79.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2047ms
+
+Done
